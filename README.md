@@ -1,7 +1,7 @@
 - # ✨ Hi, I’m @Feyalon
 - I’m interested in programming
 - I’m currently learning programming languages such as python, php(with laravel), JS/TS(with angular and svelte) and C#
-- ## My personal WebSite: https://feyalon.github.io/
+- ## My personal WebSite: https://feyalon3.deno.dev/
 - Telegram: string = '@Feyalon'; ✨
 
 <!---
