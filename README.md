@@ -12,7 +12,7 @@
             ✨ Hi, I’m @Feyalon
         </h1>
         <p>
-            I’m interested in programming I’m currently learning programming languages such as Python, JS/TS(Angular) and C#(Asp.Net)
+            I’m interested in programming I’m currently learning programming languages such as Php, JS/TS(Angular) and C#(Asp.Net)
         </p>
     </div>
     
