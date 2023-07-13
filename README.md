@@ -12,7 +12,7 @@
         <span style="color: rgb(255, 235, 255)">(^///^)</span>
       </h3>
     </div>
-https://github.com/Feyalon/Feyalon/assets/63968483/8c208090-8749-4d5f-8cf1-902782e5a245
+      <video src="https://github.com/Feyalon/Feyalon/assets/63968483/8c208090-8749-4d5f-8cf1-902782e5a245" width="100" />
     <h2><img src="https://media4.giphy.com/media/bjE9JbNSckM0w/giphy.gif?cid=ecf05e47vjo4lc7s4k4rgl66l4phgym4f9vttxpb48kwrrcb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /> Talking about my personal stuffs:</h2>
     <ul>
       <li>🎓I'm enrollee</li>
