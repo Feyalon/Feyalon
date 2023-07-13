@@ -78,5 +78,5 @@
       </div>
       <br />
       <div align="center">
-            <img src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif?cid=ecf05e47j0ojt4unjl6jltyfauklly2ij4owro4axvycum9t&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+            <img src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif?cid=ecf05e47j0ojt4unjl6jltyfauklly2ij4owro4axvycum9t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="500" />
       </div>
