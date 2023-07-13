@@ -12,7 +12,6 @@
         <span style="color: rgb(255, 235, 255)">(^///^)</span>
       </h3>
     </div>
-    <hr />
     <p>I'm currently into Full stack 🕸️Web Development.</p>
     <h2>Talking about my personal stuffs:</h2>
     <ul>
@@ -28,7 +27,6 @@
     </ul>
     </div>
     <h2></h2>
-    <hr />
     <h2>How to contact with me: </h2>
     <div>
       <a href="https://t.me/FeyaLon">
@@ -38,7 +36,6 @@
         <img width="100" height="100" src="https://img.icons8.com/clouds/100/discord-logo.png" alt="discord-logo"/>
       </a>
     </div>
-    <hr />
     <div>
         <div>
             <img src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?  cid=ecf05e472w1dszzzxl98mqab07z0k256l669hmwb9yhk6wzo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" sizes="250">
@@ -62,7 +59,6 @@
       </ul>
       <h2></h2>
     </div>
-    <hr />
     <h2>Streak Stats :</h2>
       <div>
         <img
