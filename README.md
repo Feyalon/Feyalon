@@ -15,7 +15,7 @@
     <hr />
     <p>I'm currently into Full stack 🕸️Web Development.</p>
     <h2>Talking about my personal stuffs:</h2>
-    <div>
+    <div align="left">
           <img src="https://media1.giphy.com/media/3VLajsSQMEMxvQQv8N/giphy.gif?cid=ecf05e47j1h2od3zqauvc1vxd72j9tf4s9676itkvjbaouqv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
     </div>
     <ul>
