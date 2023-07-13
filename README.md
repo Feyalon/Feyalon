@@ -297,27 +297,4 @@
     </div>
   </body>
 </html>
-<style>
-  body {
-    background-color: black;
-  }
-  * {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
-  }
-  a {
-    text-decoration: none;
-    color: white;
-  }
-  .Welcomeblock {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: palevioletred;
-    text-transform: uppercase;
-  }
-  li {
-    font-size: 18px;
-  }
-</style>
+
