@@ -46,9 +46,6 @@
         <li>Python</li>
         <li>C#</li>
       </ul>
-      <div align="center">
-            <img src="https://media1.giphy.com/media/VdELbEUzIv9n6Rdd5F/giphy.gif?cid=ecf05e4784tzsh8u3hnvniotle11kidb7ylc4t47w8kh5y7l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
-      </div>
       <hr />
       <h2>🧰 Frameworks :</h2>
       <ul>
@@ -60,6 +57,9 @@
       </ul>
       <h2></h2>
     </div>
+    <div align="center">
+            <img src="https://media1.giphy.com/media/VdELbEUzIv9n6Rdd5F/giphy.gif?cid=ecf05e4784tzsh8u3hnvniotle11kidb7ylc4t47w8kh5y7l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+      </div>
     <h2>Streak Stats :</h2>
       <div>
         <img
