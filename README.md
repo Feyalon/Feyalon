@@ -1,7 +1,7 @@
 <div class="Welcomeblock" align="center">
       <div id="header" align="center">
         <img
-          src="https://media0.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e472w1dszzzxl98mqab07z0k256l669hmwb9yhk6wzo&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+          src="https://media3.giphy.com/media/N3NGMfgLLviTymncX1/giphy.gif?cid=ecf05e47d32xz99pv9zd4b2wkb3neyrz2sd7wdmgsqk4pimm&ep=v1_gifs_search&rid=giphy.gif&ct=g"
           width="250"
         />
       </div>
