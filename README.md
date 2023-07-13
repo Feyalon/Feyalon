@@ -18,10 +18,7 @@
     <ul>
       <li>🎓I'm enrollee</li>
       <li>💻I'm currently learning Web Development</li>
-          <div style="display: flex;">
-          <div align="right">
-          <img src="https://media1.giphy.com/media/3VLajsSQMEMxvQQv8N/giphy.gif?cid=ecf05e47j1h2od3zqauvc1vxd72j9tf4s9676itkvjbaouqv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-    </div>
+      <img sizes="200px" src="https://media1.giphy.com/media/3VLajsSQMEMxvQQv8N/giphy.gif?cid=ecf05e47j1h2od3zqauvc1vxd72j9tf4s9676itkvjbaouqv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
       <li>🗾 I like watching anime ☜(ﾟヮﾟ☜)</li>
       <li>
         📝I often write articles on
