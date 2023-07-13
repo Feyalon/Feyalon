@@ -62,22 +62,20 @@
     </div>
     <hr />
     <h2>Streak Stats :</h2>
-    <ul style="list-style: none;">
-      <li>
+      <div>
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=feyalon"
           alt=""
         />
-      </li>
+      </div>
       <br />
-      <li>
+      <div>
         <img src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e47plb6mw5orx3s5pzwkp61dc0mcfp9jfgevgy73xsm&ep=v1_gifs_search&rid=giphy.gif&ct=g" sizes="200" alt="">
-      </li>
+      </div>
       <br>
-      <li>
+      <div>
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyalon"
           alt=""
         />
-      </li>
-    </ul>
+      </div>
