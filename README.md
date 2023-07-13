@@ -12,7 +12,6 @@
         <span style="color: rgb(255, 235, 255)">(^///^)</span>
       </h3>
     </div>
-    <p>I'm currently into Full stack 🕸️Web Development.</p>
     <h2>Talking about my personal stuffs:</h2>
     <ul>
       <li>🎓I'm enrollee</li>
