@@ -16,13 +16,13 @@
     <ul>
       <li>🎓I'm enrollee</li>
       <li>💻I'm currently learning Web Development</li>
-      <img align="right" sizes="200px" src="https://media1.giphy.com/media/3VLajsSQMEMxvQQv8N/giphy.gif?cid=ecf05e47j1h2od3zqauvc1vxd72j9tf4s9676itkvjbaouqv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
       <li>🗾 I like watching anime ☜(ﾟヮﾟ☜)</li>
       <li>
         📝I often write articles on
         <a target="_blank" href="https://feyalonbl.vercel.app/">My Site</a>
         <br />
       </li>
+      <img align="right" sizes="200px" src="https://media2.giphy.com/media/T3cG4taxiqAOZ7JzoE/giphy.gif?cid=ecf05e4751lrnscjyx9qwto0ci4nucp5lexw4jfeju9jnhnv&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
     </ul>
     </div>
     <h2></h2>
