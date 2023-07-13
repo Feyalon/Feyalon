@@ -23,7 +23,7 @@
     </div>
     <hr />
     <p>I'm currently into Full stack 🕸️Web Development.</p>
-    <h2>Talking about my personal stuffs{</h2>
+    <h2>Talking about my personal stuffs:</h2>
     <ul>
       <li>🎓I'm enrollee</li>
       <li>💻I'm currently learning Web Development</li>
@@ -34,9 +34,9 @@
         <br />
       </li>
     </ul>
-    <h2>}</h2>
+    <h2></h2>
     <hr />
-    <h2>How to contact with me {</h2>
+    <h2>How to contact with me: </h2>
     <div>
       <a href="https://t.me/FeyaLon">
         <svg
@@ -242,22 +242,21 @@
         </svg>
       </a>
     </div>
-    <h2>}</h2>
     <hr />
     <div>
         <div>
             <img src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=ecf05e472w1dszzzxl98mqab07z0k256l669hmwb9yhk6wzo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" sizes="250">
         </div>
-      <h2>👨‍💻 Programming and Markup Languages {</h2>
+      <h2>👨‍💻 Programming and Markup Languages :</h2>
       <ul>
         <li>Javascript</li>
         <li>Typescript</li>
         <li>Python</li>
         <li>C#</li>
       </ul>
-      <h2>}</h2>
+      <h2></h2>
       <hr />
-      <h2>🧰 Frameworks {</h2>
+      <h2>🧰 Frameworks :</h2>
       <ul>
         <li>React</li>
         <li>Vue</li>
@@ -265,10 +264,10 @@
         <li>Asp.net</li>
         <li>Nest</li>
       </ul>
-      <h2>}</h2>
+      <h2></h2>
     </div>
     <hr />
-    <h2>Streak Stats {</h2>
+    <h2>Streak Stats :</h2>
     <ul style="list-style: none">
       <li>
         <img
@@ -289,7 +288,7 @@
       </li>
     </ul>
 
-    <h2>}</h2>
+    <h2></h2>
 
     <div>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
