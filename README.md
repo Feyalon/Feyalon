@@ -14,7 +14,7 @@
     </div>
     <h2><img src="https://media4.giphy.com/media/bjE9JbNSckM0w/giphy.gif?cid=ecf05e47vjo4lc7s4k4rgl66l4phgym4f9vttxpb48kwrrcb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" /> Talking about my personal stuffs:</h2>
     <ul>
-      <li>🎓I'm enrollee</li>
+      <li>🎓I'm currently studying at university - TDTU</li>
       <li>💻I'm currently learning Web Development</li>
       <li>🗾 I like watching anime ☜(ﾟヮﾟ☜)</li>
       <li>
