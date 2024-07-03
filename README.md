@@ -68,13 +68,6 @@
       <div>
         <img src="https://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif?cid=ecf05e47plb6mw5orx3s5pzwkp61dc0mcfp9jfgevgy73xsm&ep=v1_gifs_search&rid=giphy.gif&ct=g" sizes="200" alt="">
       </div>
-      <br>
-      <div>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyalon"
-          alt=""
-        />
-      </div>
       <br />
       <div align="center">
             <img src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif?cid=ecf05e47j0ojt4unjl6jltyfauklly2ij4owro4axvycum9t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="500" />
