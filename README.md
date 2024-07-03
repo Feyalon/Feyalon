@@ -1,61 +1,51 @@
-<div align="center" style="background-color: #f5f5dc; padding: 20px; border: 2px solid #dcdcdc; border-radius: 10px;">
-    <div id="header" align="center">
-        <img src="https://media3.giphy.com/media/N3NGMfgLLviTymncX1/giphy.gif?cid=ecf05e47d32xz99pv9zd4b2wkb3neyrz2sd7wdmgsqk4pimm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" style="border: 2px solid #000; border-radius: 10px;" />
-    </div>
-    <h1 style="font-family: 'Courier New', Courier, monospace;">Hello there!</h1>
-    <h2 style="font-family: 'Courier New', Courier, monospace; color: #ff4500;">I'm Feyalon</h2>
-    <h3 style="font-family: 'Courier New', Courier, monospace;">Welcome to my Github profile <span style="color: #daa520;">(^///^)</span></h3>
-</div>
+# Greetings! I'm Feyalon 👋
 
-<h2><img src="https://media4.giphy.com/media/bjE9JbNSckM0w/giphy.gif?cid=ecf05e47vjo4lc7s4k4rgl66l4phgym4f9vttxpb48kwrrcb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" style="vertical-align: middle;" /> Talking about my personal stuffs:</h2>
-<ul style="font-family: 'Courier New', Courier, monospace; color: #2f4f4f;">
-    <li>🎓I'm currently studying at university - TDTU</li>
-    <li>💻I'm currently learning Web Development</li>
-    <li>🗾 I like watching anime ☜(ﾟヮﾟ☜)</li>
-    <li>📝I often write articles on <a target="_blank" href="https://feyalonbl.vercel.app/" style="color: #ff4500;">My Site</a></li>
-</ul>
-<img align="right" sizes="200px" src="https://media2.giphy.com/media/T3cG4taxiqAOZ7JzoE/giphy.gif?cid=ecf05e4751lrnscjyx9qwto0ci4nucp5lexw4jfeju9jnhnv&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="border: 2px solid #000; border-radius: 10px;" />
+![Header](https://camo.githubusercontent.com/2ae00213bab5af42c4428f5bd43eb884ec812ec3f44211f163172b04f9176011/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4e334e474d66674c4c766954796d6e6358312f67697068792e6769663f6369643d6563663035653437643332787a39397076397a64346232776b62336e6579727a3273643777646d6773716b3470696d6d2665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67)
 
-<h2 style="font-family: 'Courier New', Courier, monospace; color: #ff4500;">How to contact with me:</h2>
-<div>
-    <a href="https://t.me/FeyaLon">
-        <img width="100" height="100" src="https://img.icons8.com/clouds/100/telegram-app.png" alt="telegram-app" style="margin: 10px;"/>
-    </a>
-    <a href="https://discord.com/users/1003349767323123893/">
-        <img width="100" height="100" src="https://img.icons8.com/clouds/100/discord-logo.png" alt="discord-logo" style="margin: 10px;"/>
-    </a>
-</div>
+## 🚀 About Me
+- 🌟 **Coder** with a passion for creativity and innovation
+- 🌱 Currently learning: Devops and System administration
+- 💼 By day: Software Developer
+- 🌌 By night: Gaming and exploring new tech
+- 📍 Location: [Uzbekistan/Tashkent]
 
-<div align="center" style="background-color: #f5f5dc; padding: 20px; border: 2px solid #dcdcdc; border-radius: 10px;">
-    <div>
-        <img src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif?cid=ecf05e472w1dszzzxl98mqab07z0k256l669hmwb9yhk6wzo&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" width="250" style="border: 2px solid #000; border-radius: 10px;">
-    </div>
-    <h2 style="font-family: 'Courier New', Courier, monospace; color: #ff4500;">👨‍💻 Programming and Markup Languages :</h2>
-    <ul style="font-family: 'Courier New', Courier, monospace; color: #2f4f4f;">
-        <li>Javascript</li>
-        <li>Typescript</li>
-        <li>Python</li>
-        <li>C#</li>
-    </ul>
-    <hr />
-    <h2 style="font-family: 'Courier New', Courier, monospace; color: #ff4500;">🧰 Frameworks :</h2>
-    <ul style="font-family: 'Courier New', Courier, monospace; color: #2f4f4f;">
-        <li>React</li>
-        <li>Vue</li>
-        <li>Express</li>
-        <li>Asp.net</li>
-        <li>Nest</li>
-    </ul>
-</div>
+## 🔧 My Superpowers
+- 🖥️ **Programming Languages:** 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- 🔨 **Tools and Technologies:** 
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+  - ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat)
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+  - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
-<h2 style="font-family: 'Courier New', Courier, monospace; color: #ff4500;">Streak Stats :</h2>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyalon" alt="" style="border: 2px solid #000; border-radius: 10px;" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=feyalon&show_icons=true" style="border: 2px solid #000; border-radius: 10px;" />
-</div>
-<br />
-<div align="center">
-    <img src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif?cid=ecf05e47j0ojt4unjl6jltyfauklly2ij4owro4axvycum9t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100%" style="border: 2px solid #000; border-radius: 10px;" />
-</div>
+## 🌟 Featured Projects
+### [Smarta - the javascript framework](https://github.com/Feyalon/Smarta)
+Simple the javascript framework
+
+### [E-Commerce Website](https://github.com/Feyalon/Sultan)
+A fully functional e-commerce website with features like product browsing, shopping cart, and payment integration, built using only React
+
+## 📊 GitHub Stats
+![Feyalon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feyalon&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- 📧 Email: [gafursharipov134@gmail.com]
+- 💼 Telegram: [https://t.me/FeyaLon]
+- 🐦 Twitter: [https://x.com/Feyalon?t=x5LHbDmve_VxB3dsFF566Q&s=09]
+
+## 💬 Leave Feedback
+If you have any ideas, suggestions, or just want to say hi, feel free to reach out to me!
+
+
+![Footer](https://camo.githubusercontent.com/438efb4f333360e5636ae615e461eb4312f0fd2f2c98fd7779ef493aeda81669/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f377a4a67717653626a4248324d2f67697068792e6769663f6369643d65636630356534376a306f6a7434756e6a6c366a6c74796661756b6c6c7932696a346f77726f346178767963756d39742665703d76315f737469636b6572735f736561726368267269643d67697068792e6769662663743d73)
+
+---
+> "Life is code, and we are all programmers!" - Feyalon
