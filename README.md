@@ -64,6 +64,7 @@
           alt=""
         />
       </div>
+      ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=feyalon&show_icons=true)
       <br />
       <div align="center">
             <img src="https://media4.giphy.com/media/7zJgqvSbjBH2M/giphy.gif?cid=ecf05e47j0ojt4unjl6jltyfauklly2ij4owro4axvycum9t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="500" />
