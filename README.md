@@ -47,5 +47,10 @@ If you have any ideas, suggestions, or just want to say hi, feel free to reach o
 
 ![Footer](https://camo.githubusercontent.com/438efb4f333360e5636ae615e461eb4312f0fd2f2c98fd7779ef493aeda81669/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f377a4a67717653626a4248324d2f67697068792e6769663f6369643d65636630356534376a306f6a7434756e6a6c366a6c74796661756b6c6c7932696a346f77726f346178767963756d39742665703d76315f737469636b6572735f736561726368267269643d67697068792e6769662663743d73)
 
+### ⏮️⏪⏸️⏩⏭️ My favorite musics
+- davidbowie - [Starman](https://soundcloud.com/davidbowieofficial/04-starman-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- Maria Takeuch - [Plastic Love](https://soundcloud.com/user-542419308/plastic-love?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+- Mitski - [Washing maching heart](https://soundcloud.com/mitskiofficial/washing-machine-heart?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 ---
 > "Code is fun - i like fun )))))!" - Feyalon
