@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h3>
-    #Feayalon
+    #Feyalon
   </h3>
 </div>
 <div align="center">
