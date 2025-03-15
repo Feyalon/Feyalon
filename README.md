@@ -5,15 +5,13 @@
 System administrator | Developer | Explorer
 ```
 
+## 💫 About Me:
+🌟 Passionate about creativity and innovation<br>🌱 Currently learning: DevOps and System Administration<br>💼 By day: Software Developer<br>🌌 By night: Gaming and exploring new tech<br>📍 Location: Uzbekistan / Tashkent
+
 ---
 
-## ⚙️ System Info
-
-- **OS**: Linux-based 🐧
-- **Uptime**: Always online 🌐
-- **Load**: Handling multiple processes 💻
-- **Network**: Connected but unreachable 🔴
-- **Battery**: 98% | Discharging ⚡
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GafurSH)  
 
 ---
 
@@ -23,16 +21,16 @@ System administrator | Developer | Explorer
 
 ---
 
-## 📡 Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GafurSH)  
-
----
-
-## 🏆 GitHub Stats
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Feyalon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Feyalon&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Feyalon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Feyalon&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
