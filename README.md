@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://w.wallhaven.cc/full/vq/wallhaven-vq1z55.png" alt="FEYALON" width="100%">
 </div>
-
+<div align="center">
+  # Feayalon
+</div>
 <div align="center">
   <code>frontend developer</code> • <code>react specialist</code> • <code>ui enthusiast</code>
 </div>
