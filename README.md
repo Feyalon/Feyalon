@@ -1,9 +1,11 @@
+```      
       __                     
      / /_  __  __  ___  _____
     / __ \/ / / / / _ \/ ___/
    / /_/ / /_/ / /  __/ /    
   /_.___/\__, /  \___/_/     
         /____/               
+```
 
 **Feyalon** — System Administrator | Developer | Explorer  
 📍 Location: Uzbekistan / Tashkent
