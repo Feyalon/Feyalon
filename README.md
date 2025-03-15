@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x100/282828/ebdbb2?text=FEYALON" alt="FEYALON" width="100%">
+  <img src="https://w.wallhaven.cc/full/vq/wallhaven-vq1z55.png" alt="FEYALON" width="100%">
 </div>
 
 <div align="center">
