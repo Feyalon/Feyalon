@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <code>developer</code> • <code>system administrator</code> • <code>tech explorer</code>
+  <code>frontend developer</code> • <code>react specialist</code> • <code>ui enthusiast</code>
 </div>
 
 <div align="center">
-  <i>"Simplicity is the ultimate sophistication"</i>
+  <i>"Crafting beautiful interfaces with clean code"</i>
 </div>
 
 ---
@@ -15,27 +15,40 @@
 ## ⚡ about
 
 ```gruvbox
-🌱 learning    : devops and system administration
-💼 by day      : software developer
-🌌 by night    : gaming and exploring new tech
+🌱 learning    : advanced state management and system design
+💼 by day      : frontend developer
+🌌 by night    : exploring UI/UX trends and gaming
 📍 location    : tashkent, uzbekistan
 ```
 
-## 🛠️ tech stack
+## 🛠️ frontend stack
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/><br>TypeScript</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5"/><br>HTML5</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3"/><br>CSS3</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="38" height="38" alt="SCSS"/><br>SCSS</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/><br>JavaScript</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React"/><br>React</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="38" height="38" alt="Tailwind"/><br>Tailwind</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="38" height="38" alt="AWS"/><br>AWS</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="38" height="38" alt="Azure"/><br>Azure</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="38" height="38" alt="GCP"/><br>GCP</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="38" height="38" alt="Jenkins"/><br>Jenkins</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/><br>TypeScript</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React"/><br>React</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="38" height="38" alt="Redux"/><br>Redux</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js"/><br>Next.js</td>
+    </tr>
+  </table>
+</div>
+
+## 🔧 tools & ecosystem
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="38" height="38" alt="Webpack"/><br>Webpack</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="38" height="38" alt="Vite"/><br>Vite</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git"/><br>Git</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38" height="38" alt="Figma"/><br>Figma</td>
     </tr>
   </table>
 </div>
@@ -44,6 +57,25 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Feyalon&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&hide_title=true&hide=contribs&bg_color=282828&icon_color=b8bb26&text_color=ebdbb2" alt="GitHub Stats">
+</div>
+
+## 🚀 projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>React Dashboard</b><br>
+        Modern admin panel with material design<br>
+        <code>React</code> <code>TypeScript</code> <code>Redux</code>
+      </td>
+      <td align="center">
+        <b>E-commerce UI</b><br>
+        Responsive store interface with cart system<br>
+        <code>Next.js</code> <code>MobX</code> <code>SCSS</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🔍 find me
@@ -63,5 +95,5 @@
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x40/282828/ebdbb2?text=Crafting+code+and+exploring+the+digital+frontier" alt="Footer" width="100%">
+  <img src="https://via.placeholder.com/800x40/282828/ebdbb2?text=Creating+pixel-perfect+interfaces+one+component+at+a+time" alt="Footer" width="100%">
 </div>
