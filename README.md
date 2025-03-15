@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x40/282828/ebdbb2?text=Creating+pixel-perfect+interfaces+one+component+at+a+time" alt="Footer" width="100%">
+  <img src="https://i.pinimg.com/736x/dd/78/f7/dd78f72a9aaaf8b6683a5b6f96613906.jpg" alt="Footer" width="100%">
 </div>
