@@ -99,5 +99,5 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/dd/78/f7/dd78f72a9aaaf8b6683a5b6f96613906.jpg" alt="Footer" width="100%">
+  <img src="https://preview.redd.it/3840x2160-gruvbox-stripes-all-wallpapers-light-dark-all-v0-mmwy6dpfil991.png?width=1080&crop=smart&auto=webp&s=d35f70e18af3fc7d1797b00a1a0790df7b032107" alt="Footer" width="100%">
 </div>
