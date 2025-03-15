@@ -1,29 +1,71 @@
-# 💫 About Me:
-🚀 About Me<br>🌟 Coder with a passion for creativity and innovation<br>🌱 Currently learning: Devops and System administration<br>💼 By day: Software Developer<br>🌌 By night: Gaming and exploring new tech<br>📍 Location: [Uzbekistan/Tashkent]
+<div align="center">
 
+# FEYALON
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@feyalon) 
-[![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/GafurSH) 
+`developer` | `system administrator` | `tech explorer`
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Feyalon&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Feyalon&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Feyalon&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Feyalon&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  
+*"Simplicity is the ultimate sophistication"*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Feyalon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/feyalon) 
+## ⚡ about
 
+```
+🌱 learning    : devops and system administration
+💼 by day      : software developer
+🌌 by night    : gaming and exploring new tech
+📍 location    : tashkent, uzbekistan
+```
+
+## 🛠️ tech stack
+
+<div align="center">
+
+[![TypeScript](https://img.shields.io/badge/typescript-%23282828.svg?style=flat-square&logo=typescript&logoColor=%23458588)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23282828.svg?style=flat-square&logo=javascript&logoColor=%23d79921)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-%23282828.svg?style=flat-square&logo=react&logoColor=%2398971a)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/tailwind-%23282828.svg?style=flat-square&logo=tailwind-css&logoColor=%2383a598)](https://tailwindcss.com/)
+
+[![AWS](https://img.shields.io/badge/aws-%23282828.svg?style=flat-square&logo=amazon-aws&logoColor=%23fe8019)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/azure-%23282828.svg?style=flat-square&logo=microsoftazure&logoColor=%23458588)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/gcp-%23282828.svg?style=flat-square&logo=google-cloud&logoColor=%238ec07c)](https://cloud.google.com/)
+
+[![Postgres](https://img.shields.io/badge/postgres-%23282828.svg?style=flat-square&logo=postgresql&logoColor=%23b16286)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/mysql-%23282828.svg?style=flat-square&logo=mysql&logoColor=%2383a598)](https://www.mysql.com/)
+
+[![Git](https://img.shields.io/badge/git-%23282828.svg?style=flat-square&logo=git&logoColor=%23fb4934)](https://git-scm.com/)
+[![Jenkins](https://img.shields.io/badge/jenkins-%23282828.svg?style=flat-square&logo=jenkins&logoColor=%23ebdbb2)](https://www.jenkins.io/)
+
+</div>
+
+## 📊 github stats
+
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feyalon&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&hide_title=true&hide=contribs&bg_color=282828&icon_color=b8bb26&text_color=ebdbb2)
+
+</div>
+
+## 🔍 find me
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/instagram-%23282828.svg?style=flat-square&logo=Instagram&logoColor=%23d3869b)](https://instagram.com/@feyalon)
+[![Telegram](https://img.shields.io/badge/telegram-%23282828.svg?style=flat-square&logo=Telegram&logoColor=%2383a598)](https://t.me/GafurSH)
+[![BuyMeACoffee](https://img.shields.io/badge/buy_me_coffee-%23282828.svg?style=flat-square&logo=buy-me-a-coffee&logoColor=%23d79921)](https://buymeacoffee.com/feyalon)
+
+</div>
+
+---
+
+<div align="center">
+  
+*Crafting code and exploring the digital frontier*
+
+</div>
