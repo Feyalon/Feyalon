@@ -102,7 +102,7 @@
   <a href="https://instagram.com/@feyalon">
     <img src="https://img.shields.io/badge/instagram-%23282828.svg?style=for-the-badge&logo=Instagram&logoColor=%23d3869b" alt="Instagram">
   </a>
-  <a href="https://t.me/GafurSH">
+  <a href="https://t.me/MondaySuck">
     <img src="https://img.shields.io/badge/telegram-%23282828.svg?style=for-the-badge&logo=Telegram&logoColor=%2383a598" alt="Telegram">
   </a>
   <a href="https://buymeacoffee.com/feyalon">
